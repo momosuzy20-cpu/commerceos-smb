@@ -1,0 +1,18 @@
+CommerceOS for SMBs
+
+Core Pain:
+Indian SMB sellers lose money because operations are chaotic.
+
+First niche:
+Instagram + WhatsApp clothing sellers
+
+Problems:
+- slow replies
+- abandoned leads
+- manual order tracking
+- no analytics
+- poor follow-up
+- inventory confusion
+
+First MVP:
+AI WhatsApp lead follow-up assistant
